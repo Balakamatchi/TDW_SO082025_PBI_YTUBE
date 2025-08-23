@@ -1,0 +1,51 @@
+{
+  "name": "Font Theme",
+  "visualStyles": {
+    "card": {
+      "*": {
+        "labels": [
+          {
+            "fontFamily": "Roboto",
+            "fontSize": 22,
+            "fontWeight": "bold"
+          }
+        ],
+        "title": [
+          {
+            "fontFamily": "Roboto",
+            "fontSize": 28,
+            "fontWeight": "bold"
+          }
+        ]
+      }
+    },
+    "tableEx": {
+      "*": {
+        "grid": [
+          {
+            "fontFamily": "Corbel",
+            "fontSize": 12
+          }
+        ],
+        "columnHeaders": [
+          {
+            "fontFamily": "Corbel",
+            "fontSize": 12,
+            "fontWeight": "bold"
+          }
+        ]
+      }
+    },
+    "multiRowCard": {
+      "*": {
+        "labels": [
+          {
+            "fontFamily": "Roboto",
+            "fontSize": 14,
+            "fontWeight": "bold"
+          }
+        ]
+      }
+    }
+  }
+}
